@@ -1,3 +1,6 @@
 - algorithm_for_small_datasets: 적은 수의 학습 데이터셋에 대해 효과적으로 처리하는 코드
 - fast_neural_networks: 저성능 컴퓨터에서 활용할 수 있는 경량화된 네트워크
 - accurate_neural_networks: 가장 높은 성능을 나타내는 고성능 네트워크
+- data_augmentation: 데이터 증강 알고리즘
+- korean_data_augmentation: 한국어 데이터 증강 알고리즘
+- heuristics: 문제 해결을 위한 휴리스틱
