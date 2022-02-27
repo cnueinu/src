@@ -1,4 +1,4 @@
-# https://github.com/Huffon/klue-transformers-tutorial를 일부 활용하였습니다.
+# https://github.com/Huffon/klue-transformers-tutorial를 일부 활용
 
 import pickle
 import torch
